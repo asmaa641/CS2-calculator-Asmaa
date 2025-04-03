@@ -1,0 +1,3 @@
+/Users/asmaa/CS2-Calculator-Asmaa/build/CMakeFiles/trial.dir
+/Users/asmaa/CS2-Calculator-Asmaa/build/CMakeFiles/edit_cache.dir
+/Users/asmaa/CS2-Calculator-Asmaa/build/CMakeFiles/rebuild_cache.dir
